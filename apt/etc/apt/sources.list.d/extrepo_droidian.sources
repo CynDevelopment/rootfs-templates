@@ -4,3 +4,4 @@ Suites: bookworm
 Uris: https://production.repo.droidian.org/
 Types: deb
 Signed-By: /var/lib/extrepo/keys/hybris-mobian.asc
+Trusted: yes
